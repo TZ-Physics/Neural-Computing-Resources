@@ -214,7 +214,7 @@ Advanced Intelligent Systems, 2020.
 *P Yao, H Wu, B Gao, J Tang, Q Zhang, W Zhang, et al.*<br>
 Nature, 2020.
 
-## Event Carema
+## Event Camera
 
 **Video to Events: Recycling Video Datasets for Event Cameras.**<br>
 *D Gehrig, M Gehrig, J Hidalgo-Carrió, et al.*<br>
