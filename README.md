@@ -177,21 +177,6 @@ Neural networks, 2020.
 ICRA, 2020.
 [[Github](https://github.com/mchancan/flynet)]
 
-### Event-based Carema
-
-**Video to Events: Recycling Video Datasets for Event Cameras.**<br>
-*D Gehrig, M Gehrig, J Hidalgo-Carrió, et al.*<br>
-CVPR, 2020.
-[[Github](https://github.com/uzh-rpg/rpg_vid2e)]
-
-**Comparing SNNs and RNNs on neuromorphic vision datasets: Similarities and differences.**<br>
-*W He, YJ Wu, L Deng, G Li, H Wang, Y Tian, W Ding, et al.*<br>
-Neural Networks, 2020.
-
-**Event-based Vision: A Survey.**<br>
-*G Gallego, T Delbrück, G Orchard.*<br>
-PAMI, 2020.
-
 ## Reservoir Computing
 
 **Model-free prediction of large spatiotemporally chaotic systems from data: A reservoir computing approach.**<br>
@@ -228,6 +213,21 @@ Advanced Intelligent Systems, 2020.
 **Fully hardware-implemented memristor convolutional neural network.**<br>
 *P Yao, H Wu, B Gao, J Tang, Q Zhang, W Zhang, et al.*<br>
 Nature, 2020.
+
+## Event Carema
+
+**Video to Events: Recycling Video Datasets for Event Cameras.**<br>
+*D Gehrig, M Gehrig, J Hidalgo-Carrió, et al.*<br>
+CVPR, 2020.
+[[Github](https://github.com/uzh-rpg/rpg_vid2e)]
+
+**Comparing SNNs and RNNs on neuromorphic vision datasets: Similarities and differences.**<br>
+*W He, YJ Wu, L Deng, G Li, H Wang, Y Tian, W Ding, et al.*<br>
+Neural Networks, 2020.
+
+**Event-based Vision: A Survey.**<br>
+*G Gallego, T Delbrück, G Orchard.*<br>
+PAMI, 2020.
 
 ## BCI
 
