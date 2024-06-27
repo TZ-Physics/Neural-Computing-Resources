@@ -200,6 +200,23 @@ ACS Photonics, 2020.
 *A Python toolkit for Reservoir Computing and Echo State Network experimentation based on pyTorch. EchoTorch is the only Python module available to easily create Deep Reservoir Computing models.*<br>
 [[Github](https://github.com/nschaetti/EchoTorch)]
 
+## Bio-Computing
+
+**DNA-based programmable gate arrays for general-purpose DNA computing.**<br>
+*H Lv, N **e, M Li, M Dong, C Sun, Q Zhang, L Zhao, et al.*<br>
+Nature, 2023.
+[[Paper](https://www.nature.com/articles/s41586-023-06484-9)]
+
+**Fast and secure data accessing by using DNA computing for the cloud environment.**<br>
+*S Namasudra.*<br>
+IEEE Transactions on Services Computing, 2020.
+[[Paper](https://www.researchgate.net/publication/347865353_Fast_and_Secure_Data_Accessing_by_using_DNA_Computing_for_the_Cloud_Environment)]
+
+**An image encryption scheme based on a hybrid model of DNA computing, chaotic systems and hash functions.**<br>
+*EZ Zefreh.*<br>
+Multimedia Tools and Applications, 2020.
+[[Paper](https://link.springer.com/article/10.1007/s11042-020-09111-1)]
+
 ## Memristor
 
 **Circuit elements with memory: memristors, memcapacitors, and meminductors.**<br>
